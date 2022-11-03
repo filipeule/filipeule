@@ -4,8 +4,4 @@ Atualmente, estou em transição de carreira!
 
 Algumas linguagens que estou estudando atualmente:
 
-C#
-HTML5, CSS3
-JavaScript
-SQL
-PHP
+C# - HTML5, CSS3 - JavaScript - SQL - PHP

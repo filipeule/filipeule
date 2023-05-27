@@ -1,9 +1,9 @@
-## Olá, rede! :computer:
+## Olá, rede! :grin:
 
-Muito prazer! Meu nome é Filipe Ule, sou técnico em Mecatrônica formado pela ETEC Philadelpho Gouvêa Netto e estou cursando Informática para Negócios na FATEC Rio Preto.
+Muito prazer! Meu nome é Filipe Ule, estou cursando Informática para Negócios na FATEC Rio Preto. 
 
-Atualmente, estou em transição de carreira!
+Atualmente, estou em transição de carreira! Estou me esforçando para começar uma carreira na área de desenvolvimento. :computer:
 
-Algumas linguagens que estou estudando atualmente:
+Minhas tecnologias favoritas:
 
-C# - HTML5, CSS3 - JavaScript - SQL - PHP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />

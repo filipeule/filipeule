@@ -6,4 +6,4 @@ Atualmente, estou em transição de carreira! Estou me esforçando para começar
 
 Minhas tecnologias favoritas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="30"/>

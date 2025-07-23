@@ -1,9 +1,13 @@
 # Sobre mim
 
-Muito prazer! Meu nome é Filipe Ule, sou Tecnólogo em Informática para Negócios formado pela FATEC Rio Preto. 
+Muito prazer! Meu nome é Filipe Ule, sou Tecnólogo em Informática para Negócios formado pela FATEC Rio Preto.
 
-Atualmente, trabalho como Analista de Monitoramento e Observabilidade, onde desenvolvo sistemas para coletas de métricas customizadas.
+Atualmente atuo como Analista de Monitoramento e Observabilidade, com foco em desenvolvimento de sistemas, ferramentas e automações voltadas à coleta e análise de métricas.
 
-## Tecnologias que utilizo:
+Sempre em busca de aprimorar minhas habilidades técnicas com aprendizado contínuo e aplicações práticas!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="35" /> <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" />
+# Tecnologias que utilizo:
+
+<div style="display:flex; justify-content: space-around; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" width="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" />
+</div>

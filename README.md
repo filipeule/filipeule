@@ -4,7 +4,7 @@ Muito prazer! Meu nome é Filipe Ule, sou Tecnólogo em Informática para Negóc
 
 Trabalho com desenvolvimento de software focado em backend e sistemas de alta performance. Go é minha linguagem principal, mas também uso Python e Node.js quando a situação pede.
 
-No dia a dia construo serviços concorrentes, automações de coleta de dados e integrações com hardware e dispositivos de rede. Sempre aprendendo alguma coisa nova e buscando evoluir um pouco a cada dia.
+No dia a dia construo serviços concorrentes, APIs REST, automações de coleta de dados e integrações com hardware, dispositivos de rede, sistemas e aplicações. Sempre aprendendo alguma coisa nova e buscando evoluir um pouco a cada dia.
 
 # Tecnologias que utilizo:
 

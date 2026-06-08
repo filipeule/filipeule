@@ -2,9 +2,9 @@
 
 Muito prazer! Meu nome é Filipe Ule, sou Tecnólogo em Informática para Negócios formado pela FATEC Rio Preto.
 
-Atualmente atuo como Analista de Monitoramento e Observabilidade, com foco em desenvolvimento de sistemas, ferramentas e automações voltadas à coleta e análise de métricas.
+Trabalho com desenvolvimento de software focado em backend e sistemas de alta performance. Go é minha linguagem principal, mas também uso Python e Node.js quando a situação pede.
 
-Sempre em busca de aprimorar minhas habilidades técnicas com aprendizado contínuo e aplicações práticas!
+No dia a dia construo serviços concorrentes, automações de coleta de dados e integrações com hardware e dispositivos de rede. Sempre aprendendo alguma coisa nova e buscando evoluir um pouco a cada dia.
 
 # Tecnologias que utilizo:
 
@@ -18,3 +18,4 @@ Sempre em busca de aprimorar minhas habilidades técnicas com aprendizado contí
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6A0DAD?style=for-the-badge&logoColor=white)
